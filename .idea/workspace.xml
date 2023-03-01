@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b76a3594-190f-43c0-a2d4-cf67b2dd36fb" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/E-Voters.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/CandidateRepositoryImpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/UserRepositoryImpTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test/VoteFormRepositoryImplTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/model/Candidate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/model/Gender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/model/VoteForm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CandidateRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/CandidateRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/UserRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/UserRepositoryImp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/VoteFormRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/repositories/VoteFormRepositoryImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/VoteFormService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/services/VoteFormServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M6XHR5aOVWuGNNXwOtTcm8IvkS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="data.model" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.VoteFormRepositoryImplTest">
+    <configuration name="CandidateRepositoryImpTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="E-Voters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CandidateRepositoryImpTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoteFormRepositoryImplTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="E-Voters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VoteFormRepositoryImplTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoteFormRepositoryImplTest.saveOneUser_deleteOneUser_countIsZeroTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="E-Voters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VoteFormRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveOneUser_deleteOneUser_countIsZeroTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoteFormRepositoryImplTest.saveOneVoteForm_deleteOneVoteFormTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="E-Voters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VoteFormRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveOneVoteForm_deleteOneVoteFormTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="VoteFormRepositoryImplTest.saveOneVoteForm_findVoteFormByCandidateTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="E-Voters" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="VoteFormRepositoryImplTest" />
+      <option name="METHOD_NAME" value="saveOneVoteForm_findVoteFormByCandidateTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.VoteFormRepositoryImplTest" />
+        <item itemvalue="JUnit.VoteFormRepositoryImplTest.saveOneVoteForm_findVoteFormByCandidateTest" />
+        <item itemvalue="JUnit.VoteFormRepositoryImplTest.saveOneUser_deleteOneUser_countIsZeroTest" />
+        <item itemvalue="JUnit.VoteFormRepositoryImplTest.saveOneVoteForm_deleteOneVoteFormTest" />
+        <item itemvalue="JUnit.CandidateRepositoryImpTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b76a3594-190f-43c0-a2d4-cf67b2dd36fb" name="Changes" comment="" />
+      <created>1677088923110</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677088923110</updated>
+      <workItem from="1677088924656" duration="1608000" />
+      <workItem from="1677105010997" duration="439000" />
+      <workItem from="1677105465624" duration="3421000" />
+      <workItem from="1677229522117" duration="1895000" />
+      <workItem from="1677262310128" duration="5011000" />
+      <workItem from="1677576519107" duration="1192000" />
+      <workItem from="1677676709349" duration="12908000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
